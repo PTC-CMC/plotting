@@ -2,4 +2,4 @@
 
 * [matplotlib basis](matplotlib-basics)
 * [fitting data](data_fitting)
-# [using subplots](subplots)
+* [using subplots](subplots)
