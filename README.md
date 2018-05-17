@@ -4,3 +4,4 @@
 * [fitting data](data_fitting)
 * [using subplots](subplots)
 * [creating a heatmap from data on a uniform grid](heatmap)
+* [time series](time-series)
